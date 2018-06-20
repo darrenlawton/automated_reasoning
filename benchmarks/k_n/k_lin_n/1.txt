@@ -1,0 +1,1 @@
+(false v ((box((box p1) -> p1)) v (box((box p1) -> p1)))) v false

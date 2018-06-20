@@ -1,0 +1,59 @@
+=================================================
+K_GRZ_P
+=================================================
+k_grz_p STATS:
+21 of 21 fml provable, in 9.720911292999517 ms.
+=================================================
+K_DUM_P
+=================================================
+k_dum_p STATS:
+21 of 21 fml provable, in 2.0942514529997425 ms.
+=================================================
+K_BRANCH_P
+=================================================
+18.txt.k: clausal fml timed out
+15.txt.k: clausal fml timed out
+11.txt.k: clausal fml timed out
+12.txt.k: clausal fml timed out
+16.txt.k: clausal fml timed out
+10.txt.k: clausal fml timed out
+9.txt.k: clausal fml timed out
+21.txt.k: clausal fml timed out
+20.txt.k: clausal fml timed out
+13.txt.k: clausal fml timed out
+17.txt.k: clausal fml timed out
+8.txt.k: clausal fml timed out
+19.txt.k: clausal fml timed out
+14.txt.k: clausal fml timed out
+k_branch_p STATS:
+7 of 21 fml provable, in 8613.820341868002 ms.
+=================================================
+K_POLY_P
+=================================================
+k_poly_p STATS:
+21 of 21 fml provable, in 28.59997933699924 ms.
+=================================================
+K_T4P_P
+=================================================
+k_t4p_p STATS:
+21 of 21 fml provable, in 2.3666694720013766 ms.
+=================================================
+K_LIN_P
+=================================================
+k_lin_p STATS:
+21 of 21 fml provable, in 5.558940538998286 ms.
+=================================================
+K_PATH_P
+=================================================
+k_path_p STATS:
+21 of 21 fml provable, in 10.100565439999627 ms.
+=================================================
+K_D4_P
+=================================================
+k_d4_p STATS:
+21 of 21 fml provable, in 4.7557051589974435 ms.
+=================================================
+K_PH_P
+=================================================
+k_ph_p STATS:
+21 of 21 fml provable, in 154.73604882600193 ms.

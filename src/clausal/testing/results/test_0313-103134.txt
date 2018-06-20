@@ -1,0 +1,74 @@
+=================================================
+K_PATH_N
+=================================================
+k_path_n STATS:
+21 of 21 fml provable, in 12.202285497000048 ms.
+=================================================
+K_DUM_N
+=================================================
+k_dum_n STATS:
+21 of 21 fml provable, in 2.4325479029994312 ms.
+=================================================
+K_PH_N
+=================================================
+k_ph_n STATS:
+21 of 21 fml provable, in 162.510971179001 ms.
+=================================================
+K_POLY_N
+=================================================
+k_poly_n STATS:
+21 of 21 fml provable, in 32.39939113299988 ms.
+=================================================
+K_BRANCH_N
+=================================================
+18.txt.k: clausal fml timed out
+15.txt.k: clausal fml timed out
+11.txt.k: clausal fml timed out
+12.txt.k: clausal fml timed out
+16.txt.k: clausal fml timed out
+10.txt.k: clausal fml timed out
+9.txt.k: clausal fml timed out
+21.txt.k: clausal fml timed out
+20.txt.k: clausal fml timed out
+13.txt.k: clausal fml timed out
+17.txt.k: clausal fml timed out
+8.txt.k: clausal fml timed out
+19.txt.k: clausal fml timed out
+14.txt.k: clausal fml timed out
+k_branch_n STATS:
+7 of 21 fml provable, in 8502.067175023001 ms.
+=================================================
+K_GRZ_N
+=================================================
+k_grz_n STATS:
+21 of 21 fml provable, in 2.813285593998444 ms.
+=================================================
+K_D4_N
+=================================================
+k_d4_n STATS:
+21 of 21 fml provable, in 7.512828630999138 ms.
+=================================================
+K_LIN_N
+=================================================
+18.txt.k: clausal fml timed out
+15.txt.k: clausal fml timed out
+11.txt.k: clausal fml timed out
+12.txt.k: clausal fml timed out
+16.txt.k: clausal fml timed out
+10.txt.k: clausal fml timed out
+9.txt.k: clausal fml timed out
+21.txt.k: clausal fml timed out
+20.txt.k: clausal fml timed out
+7.txt.k: clausal fml timed out
+13.txt.k: clausal fml timed out
+17.txt.k: clausal fml timed out
+8.txt.k: clausal fml timed out
+19.txt.k: clausal fml timed out
+14.txt.k: clausal fml timed out
+k_lin_n STATS:
+6 of 21 fml provable, in 9012.634996809 ms.
+=================================================
+K_T4P_N
+=================================================
+k_t4p_n STATS:
+21 of 21 fml provable, in 5.855321831000765 ms.
